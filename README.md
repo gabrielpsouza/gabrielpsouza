@@ -3,7 +3,7 @@
 
 ## Hey There, Welcome 
 
-### About Me
+### :large_blue_diamond: About Me
 <hr>
 
 I'm 20 years old. I started working with programming in 2017. Now i'm working as a software developer in <a href="https://www.linkedin.com/company/kroton-educacional-s-a/">Kroton</a> and i love to do it.
@@ -15,5 +15,5 @@ Languages that I like to learn and study :arrow_down:
  - 👨 Front-End: HTML5, CSS3, JavaScript (ES6+) and TypeScript
  - :computer: Back-End: JavaScript(NodeJS) and C#
  - :umbrella: Frameworks: .Net Core, Asp.Net MVC, Asp.Net WebForms, React and Angular
- - :cloud: Cloud: Azure, GFC, AWS
+ - :cloud: Cloud: Microsoft Azure and Amazon Web Services (AWS)
  - :thought_balloon: IDEs: Visual Studio, Visual Studio Code, Sublime Text
