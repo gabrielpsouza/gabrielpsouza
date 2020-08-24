@@ -14,6 +14,6 @@ Languages that I like to learn and study :arrow_down:
 
  - 👨 Front-End: HTML5, CSS3, JavaScript (ES6+) and TypeScript
  - :computer: Back-End: JavaScript(NodeJS) and C#
- - :umbrella: Frameworks: .Net Core, Asp.Net MVC, Asp.Net WebForms, React and Angular
+ - :umbrella: Frameworks: .Net Core, Asp.Net MVC, Asp.Net WebForms, React, Angular and Vue
  - :cloud: Cloud: Microsoft Azure and Amazon Web Services (AWS)
  - :thought_balloon: IDEs: Visual Studio, Visual Studio Code, Sublime Text
