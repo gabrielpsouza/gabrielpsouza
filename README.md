@@ -17,3 +17,5 @@ Languages that I like to learn and study :arrow_down:
  - :umbrella: Frameworks: .Net Core, Asp.Net MVC, Asp.Net WebForms, React, Angular and Vue
  - :cloud: Cloud: Microsoft Azure and Amazon Web Services (AWS)
  - :thought_balloon: IDEs: Visual Studio, Visual Studio Code, Sublime Text
+ 
+ [![gabrielpsouza's github stats](https://github-readme-stats.vercel.app/api?username=gabrielpsouza)](https://github.com/gabrielpsouza/github-readme-stats)
