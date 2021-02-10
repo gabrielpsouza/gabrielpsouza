@@ -6,7 +6,7 @@
 ### :large_blue_diamond: About Me
 <hr>
 
-I'm 20 years old. I started working with programming in 2017. Now i'm working as a software developer in <a href="https://www.linkedin.com/company/kroton-educacional-s-a/">Kroton</a> and i love to do it.
+I'm 20 years old. I started working with programming in 2017. Now i'm working as a software engineer in <a href="https://www.xpinc.com/">Xp Inc</a> and i love to do it.
 In my private life i like to pratice sports and in my free time i also like to study about finances as this is an area that i have a big interest.
 
 ### :computer: Stack
