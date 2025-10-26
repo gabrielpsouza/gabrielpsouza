@@ -1,13 +1,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielpsouza)](https://github.com/gabrielpsouza)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpsouza/)](https://www.linkedin.com/in/gabriel-s-647659137/)
 
 ## Hey There, Welcome 
 
 ### :large_blue_diamond: About Me
 <hr>
 
-I'm 20 years old. I started working with programming in 2017. Now i'm working as a software engineer in <a href="https://www.xpinc.com/">Xp Inc</a> and i love to do it.
-In my private life i like to pratice sports and in my free time i also like to study about finances as this is an area that i have a big interest.
+I'm 25 years old. I started working with programming in 2017. 
+In my private life i like to pratice sports and coding
 
 ### :computer: Stack
 Languages that I like to learn and study :arrow_down:
